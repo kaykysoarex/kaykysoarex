@@ -4,7 +4,7 @@
 
 # Kayky Soares Bahia
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1400&color=8B949E&center=true&vCenter=true&width=640&height=30&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvimento+web+com+JavaScript;Em+busca+da+primeira+oportunidade+na+%C3%A1rea" alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1400&color=8B949E&center=true&vCenter=true&width=640&height=30&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Java+na+faculdade%2C+JavaScript+na+pr%C3%A1tica;Em+busca+da+primeira+oportunidade+na+%C3%A1rea" alt="Apresentação animada" />
 
 <br>
 
@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação e estou no início da minha carreira em programação. Hoje meu foco é construir uma base sólida em lógica, algoritmos, orientação a objetos e desenvolvimento web.
+Sou estudante de Sistemas de Informação e estou no início da minha carreira em programação. Hoje meu foco é construir uma base sólida em lógica, algoritmos, orientação a objetos e desenvolvimento web. **Java** é a linguagem que mais estudo no momento.
 
 Além dos estudos, desenvolvo projetos próprios e já atuei como freelancer, criando soluções web para clientes reais. Foi nessa prática que mais aprendi a transformar uma necessidade concreta em um sistema que funciona.
 
@@ -28,7 +28,17 @@ Busco minha primeira oportunidade em desenvolvimento de software, onde eu possa 
 
 ## Stack
 
-Tecnologias que já uso na prática:
+**Linguagem principal de estudo**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+</p>
+
+**Java**, com foco em Programação Orientada a Objetos, lógica e estruturas de dados.
+
+<br>
+
+**Na prática**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code" />
@@ -36,7 +46,9 @@ Tecnologias que já uso na prática:
 
 **HTML5** · **CSS3** · **JavaScript** · **Git** · **GitHub** · **VS Code**
 
-Explorando, ainda sem domínio profissional:
+<br>
+
+**Explorando, ainda sem domínio profissional**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs&theme=dark" alt="React, Vite e Node.js" />
@@ -85,15 +97,6 @@ Sistema web que permite criar orçamentos personalizados, apresentar serviços e
 |---|---|---|
 | **Portfólio DJ Lucas Franco** | Site de apresentação profissional de um DJ, reunindo informações, serviços, experiências, avaliações e trabalhos realizados. | [Acessar](https://github.com/kaykysoarex/portfolio-dj-lucas-franco) |
 | **Catálogo Urutau** | Projeto para praticar desenvolvimento web e construção de interfaces com HTML. | [Acessar](https://github.com/kaykysoarex/catalogo-urutau) |
-
-<br>
-<br>
-
-## Formação
-
-**Sistemas de Informação**, UNA, 1º período
-
-Na graduação, estou focado em fundamentos de lógica e algoritmos, estruturas de controle, modularização, Programação Orientada a Objetos com Java, debugging e desenvolvimento de soluções por meio de algoritmos.
 
 <br>
 <br>
