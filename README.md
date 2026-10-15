@@ -14,7 +14,7 @@ Em paralelo, desenvolvo projetos web e busco minha primeira oportunidade em dese
 <br>
 <br>
 
-[GitHub](https://github.com/kaykysoarex) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/kayky-soares-bahia) &nbsp;·&nbsp; [Portfólio](https://kaykysoarex.github.io/portoflio-devKayky/)
+[GitHub](https://github.com/kaykysoarex) &nbsp;·&nbsp; [LinkedIn](in/kayky-soares-bahia-983022357) &nbsp;·&nbsp; [Portfólio](https://kaykysoarex.github.io/portoflio-devKayky/)
 
 </div>
 
